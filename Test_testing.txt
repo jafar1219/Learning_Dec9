@@ -2,4 +2,4 @@ Hello jafar sadiq, good day!
 int a =143;
 a =99999999999999999999999999999999999999999999.480923f;
 String = "jaffar sadiq";
-byte = 48;
+int = 48;
